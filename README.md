@@ -47,3 +47,5 @@ The backend will run on `localhost:3000`.
  * [ ] Deploy this app.
  * [ ] Given the sensitive nature of the app, I would like to add a secure login and authentication page.
  * [ ] Add a test suite.
+ * [ ] Validate inputs thoroughly
+ 
