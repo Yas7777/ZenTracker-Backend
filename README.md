@@ -12,7 +12,8 @@ Details|Languages|Framework|
 This readme will describe the backend. The front end user interface is located in  [ZenTracker-Frontend](https://github.com/Yas7777/ZenTracker-Frontend)
 
 If you don't care to install it - this is how the overall app looks:
-![Alt Text](https://github.com/Yas7777/ZenTracker-Backend/blob/master/readme_assets/%20Light%20Mode.gif)
+![Alt Text](https://github.com/Yas7777/ZenTracker-Backend/blob/master/readme_assets/LightMode.gif)
+![Alt Text](https://github.com/Yas7777/ZenTracker-Backend/blob/master/readme_assets/DarkMode.gif)
 
 ## Installation and Tools
 
