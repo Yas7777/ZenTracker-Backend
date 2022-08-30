@@ -1,0 +1,44 @@
+### Request 1: Create a mood
+POST http://localhost:3000/entries HTTP/1.1
+content-type: application/json
+
+{
+    "mood": "Like a Superstar",
+    "note": "hahaha",
+  "date": "01-18-22"
+
+}
+
+### Request 2: Create another mood
+POST http://localhost:3000/entries HTTP/1.1
+content-type: application/json
+
+{
+    "mood": "Like a Superstar",
+    "note": "Great job",
+  "date": "01-19-22"
+
+}
+
+### Request 3: Create an mood
+POST http://localhost:3000/entries HTTP/1.1
+content-type: application/json
+
+{
+    "mood": "Meh",
+    "note": "Great job",
+  "date": "01-24-22"
+
+}
+
+
+### Request 4: Create with missing property 400 status code
+POST http://localhost:3000/entries HTTP/1.1
+content-type: application/json
+
+{
+  "mood": "Meh",
+  "note": "Great job"
+
+}
+
