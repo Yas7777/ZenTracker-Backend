@@ -1,19 +1,20 @@
+
 # Record Your Zen - Backend
 
-Inspired by a tracker we built in school and the Daylio app, I wanted to track my ever changing moods in a very simplified manner. 
+Inspired by a tracker we built in school and the Daylio app, I wanted to track my ever changing moods in a very simplified manner.
 
-In its essence, this is a web application using  MongoDB,  Express, React and Node.js to do CRUD operations to keep track of user's moods.  The app is comprised of a react front-end application and an express back-end REST api. This api will be used in conjunction with the React app which provides a user-interface for the web app. 
+In its essence, this is a web application using  MongoDB, Express, React and Node.js to do CRUD operations that keeps track of user's moods.  The app is comprised of a react frontend application and an express back-end REST api. 
 
 Details|Languages|Framework|
 |--|--|--|
 |Frontend  |JavaScript |HTML, CSS, React |
 |Backend  | JavaScript| ExpressJs, NodeJS, MongoDB |
 
-**This readme will describe the backend.** The frontend user interface is located in  [ZenTracker-Frontend](https://github.com/Yas7777/ZenTracker-Frontend)
+**This readme describes the backend. For this app to work in all its glory, the backend and frontend ( [ZenTracker-Frontend](https://github.com/Yas7777/ZenTracker-Frontend)) needs to be opened in two seperate windows and run concurrently.**
 
-If you don't care to install it - this is how the overall app looks (in Dark Mode):
+If you don't care to install it - this is how the overall app looks:
+(in Dark Mode):
 <img src="https://github.com/Yas7777/ZenTracker-Backend/blob/master/readme_assets/DarkMode.gif" width="860" height="360" />
-
 
 ## Installation and Tools
 
