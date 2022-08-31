@@ -27,7 +27,7 @@ TLDR: If these instructions aren't followed, this web app is just not going to w
  3. Install MongoDB (see pdf for more setup info)
  >https://www.mongodb.com/
  4. Install an IDE of your choice.
-   > I prefer Webstorm: https://www.jetbrains.com/pycharm/download/
+   > I prefer Webstorm: https://www.jetbrains.com/webstorm/download/
  5. Clone this repository. 
  6. Open the terminal for IDE (preferred to avoid issues) 
  7. Use command `npm install` 
